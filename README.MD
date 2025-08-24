@@ -6,3 +6,5 @@ Kullanıcı bir haber linki girdiğinde, sistem şu sorulara yanıt verir:
 - 📖 Bu olayın **arka planı nedir**?
 
 **Geliştirilme Aşaması Devam Etmektedir**
+
+![Ana Akış](Images/BasicWorkflow.png)
