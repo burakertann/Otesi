@@ -1,0 +1,125 @@
+Deney-1 
+Ortam :{
+    query="Cem Küçük said 'The markets are bleeding'. What is the context, details, what event is this related to, and what are the reactions?",
+    search_depth='advanced',
+    include_answer=True,
+    answer_language="tr",
+    topic='news',
+    max_results=5
+}
+
+
+query : "Cem Küçük said 'The markets are bleeding'. 
+What is the context, details, 
+what event is this related to, 
+and what are the reactions?"
+
+'follow_up_questions': None,
+
+'answer':'answer': 'Cem Küçük\'s statement, "The markets are bleeding," likely refers to a significant downturn in financial markets. 
+This context is not directly supported by the provided data sources, which focus on medical advancements, health news, community events, and technology updates. 
+However, given the phrase\'s financial connotation, it suggests a severe market decline, possibly due to economic factors, geopolitical tensions, or other global events not detailed in the provided data. 
+Reactions to such a statement would typically involve heightened market volatility, investor anxiety, and potential policy responses from financial authorities.'
+
+'images': []
+
+'url': 'https://www.thebrighterside.news/post/new-bio-inspired-medical-glue-seals-bleeding-wounds-in-seconds/', 
+'title': 'New bio-inspired medical glue seals bleeding wounds in seconds - The Brighter Side of News', 
+'score': 1.0, 
+'published_date': 'Thu, 21 Aug 2025 00:07:00 GMT', 
+'content': '# New bio-inspired medical glue seals bleeding wounds in seconds 
+    ## A new generation of bioadhesives may one day replace sutures and staples in surgeries and stop life-threatening bleeding in seconds. 
+    Inspired by barnacles, scientists created a medical glue that seals bleeding wounds in seconds. 
+    A new generation of bioadhesives—medical glues inspired by the natural world—may one day replace sutures and staples in surgeries, 
+    stop life-threatening bleeding in seconds, and even let doctors safely remove or reposition implants inside the body. Xuanhe Zhao, 
+    professor of mechanical engineering and civil and environmental engineering at MIT and senior author of the barnacle-inspired glue study, 
+    sums it up: “We are solving an adhesion problem in a challenging environment, which is this wet, dynamic environment of human tissues.', 
+'raw_content': None
+
+'url': 'https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/colon-cancer-on-the-rise-among-youngsters-5-warning-symptoms-that-should-not-be-ignored/articleshow/123413636.cms', 
+'title': 'Colon cancer on the rise among youngsters: 5 warning symptoms that should not be ignored - The Times of India', 
+'score': 0.5440314494770783, 
+'published_date': 'Wed, 20 Aug 2025 18:30:00 GMT', 
+'content': "* News * Colon cancer on the rise among youngsters: 5 warning symptoms that should not be ignored 
+# Colon cancer on the rise among youngsters: 5 warning symptoms that should not be ignored Changes in bowel habits, 
+rectal bleeding, abdominal pain, unexplained weight loss, and persistent fatigue are crucial warning signs. Changes 
+in bowel habits, rectal bleeding, abdominal pain, unexplained weight loss, and persistent fatigue are crucial warning signs. 
+Here are some of the warning symptoms of colon cancer you should not ignore. 
+Unexplained weight lossWeight loss is a common and often early symptom of colon cancer. 
+Feeling tired, even after a good night's sleep, is a common symptom in people with colon cancer. 
+Colon Cancer Symptoms", 
+'raw_content': None 
+'url': 'https://www.clickorlando.com/news/national/2025/08/18/carnival-cruise-passengers-drown-hours-apart-at-resort/', 
+'title': 'Carnival Cruise passengers drown hours apart at resort - WKMG', 
+'score': 0.5107372389209095, 
+'published_date': 'Mon, 18 Aug 2025 12:38:57 GMT', 
+'content': '18 Aug Mon, Aug 18 @ 6:30 pm Off The Wall SOUL Line Dancing Class Coleman-Bush Building 
+[Learn MoreSee All EventsAdd Event]
+(https://www.clickorlando.com/community-calendar/#/details/off-the-wall-soul-line-dancing-class/12800756/2025-08-18T18) 
+19 Aug Tue, Aug 19 @ 10:00 am EXHIBITION Portrait of a Movement: A New Approach to the Bloomsbury Group Rollins Museum of Art 
+[Learn MoreSee All EventsAdd Event]
+(https://www.clickorlando.com/community-calendar/#/details/exhibition-portrait-of-a-movement-a-new-approach-to-the-bloomsbury-group/15358555/2025-08-19T10) 
+19 Aug Tue, Aug 19 @ 5:00 pm BarflyNew Brownwood Paddock Square [Learn MoreSee All EventsAdd Event](https://www.clickorlando.com/community-calendar/#/details/barflynew/16445116/2025-08-19T17) 
+19 Aug Tue, Aug 19 @ 5:00 pm Earthbeat Lake Sumter Landing Market Square [Learn MoreSee All EventsAdd Event](https://www.clickorlando.com/community-calendar/#/details/earthbeat/16235138/2025-08-19T17) 19 Aug Tue, Aug 19 @ 6:00 pm 
+Taco Tuesday Fiesta : Live Music in Orlando Florida Solita Tacos & Margaritas [Learn MoreSee All EventsAdd Event](https://www.clickorlando.com/community-calendar/#/details/taco-tuesday-fiesta-live-music-in-orlando-florida/16467806/2025-08-19T18)', 
+'raw_content': None 
+
+'url': 'https://travelweekly.com.au/final-chance-to-register-for-focus-canada-australia-event/', 
+'title': 'Final chance to register for focus Canada Australia event - travelweekly.com.au', 
+'score': 0.19712469403515814, 'published_date': 'Wed, 20 Aug 2025 00:40:21 GMT', 
+'content': '# Final chance to register for focus Canada Australia event **Travel agents are invited to 
+join Destination Canada and partners for the Focus Canada Agent Event, taking place on Wednesday, 3 September 
+2025 at the Intercontinental Hotel Sydney.** This bi-annual event will be hosted by guest MC Edwina Bartholomew 
+and bring together Canada’s leading travel partners. It promises to be an evening filled with inspiration, networking,
+ and opportunities for agent to grow their Canada knowledge. This promises to be a memorable evening, celebrating the spirit 
+ of Canada while giving agents valuable insight into the latest opportunities for their clients. Event Details- Boronia Room, 
+ Intercontinental Hotel Sydney on Wednesday, 3 September 2025 from 5.00pm – 9.30pm', 
+'raw_content': None, 
+
+'url': 'https://www.mediapost.com/publications/article/408330/what-googles-ai-powered-pixel-10-gives-advertiser.html', 
+'title': "What Google's AI-Powered Pixel 10 Gives Advertisers 08/20/2025 - MediaPost", 
+'score': 0.0, 
+'published_date': 'Wed, 20 Aug 2025 19:50:46 GMT', 
+'content': '# What Google\'s AI-Powered Pixel 10 Gives Advertisers "performance advisor" to help support hardware, 
+features, and AI services related to Health, Pixel, and Cloud products. more closely at today\'s announcement from the 
+Made by Google event and advertisers might find other benefits. that generates custom workouts and metric targets for 
+Fitbit app users based on health goals -- one of the many features that will benefit advertisers in the long run. 
+smartphones and its fitbit watch are intended for consumers, but the focus can be reversed to analyze how Google 
+10 series phones with improved processing power can support advertisers. contextual advertising by identifying a 
+user\'s intent or current context based on their interactions within Google apps like Gmail, Calendar and Messages.', 
+'raw_content': None,
+'response_time': 1.99, 
+'request_id': '76f50837-45cf-4c49-95aa-9ed96d363203'
+
+
+
+Deney-2 
+Ortam :{
+    query="Turkish journalist Cem Küçük made a statement: 'The markets are bleeding'.Analyze the context of this statement in relation to the Turkish economy and Borsa Istanbul. Who is Cem Küçük, why is this statement significant coming from him, and what were the reactions?",
+    search_depth='advanced',
+    include_answer=True,
+    answer_language="tr",
+    topic='news',
+    max_results=5
+}
+
+{'query': "Turkish journalist Cem Küçük made a statement: 'The markets are bleeding'.Analyze the context of this statement in relation to the Turkish economy and Borsa Istanbul. Who is Cem Küçük, why is this statement significant coming from him, and what were the reactions?", 
+'follow_up_questions': None, 
+'answer': 'Cem Küçük, a prominent Turkish journalist, made a statement: "The markets are bleeding," reflecting the severe economic 
+turmoil in Turkey. This statement is significant because Küçük is known for his insightful analysis of Turkey\'s economic landscape. 
+The Turkish economy has been struggling due to unorthodox economic policies, including the recent exit from a foreign exchange-protected 
+deposit scheme, which has led to a significant cost of $60 billion and further depreciation of the lira. 
+The Borsa Istanbul, Turkey\'s stock exchange, has seen substantial declines, corroborating Küçük\'s dire assessment. 
+Reactions to his statement have been widespread, with many investors and analysts expressing concern over the future of Turkey\'s economic stability.', 
+'images': [], 'results': [{'url': 'https://www.reuters.com/world/middle-east/turkey-exits-fx-protected-deposit-scheme-2025-08-23/', 
+'title': 'Turkey exits FX-protected deposit scheme - Reuters', 'score': 0.03421971, 
+'published_date': 'Sat, 23 Aug 2025 05:55:00 GMT', 
+'content': "# Turkey exits FX-protected deposit scheme ISTANBUL, Aug 23 (Reuters) - Turkey is ending a scheme protecting 
+deposits from currency depreciation that is estimated to have cost $60 billion, in another step to abandon unorthodox 
+economic policies that triggered a lira crisis several years ago. Turkish central bank decided to terminate the opening 
+and renewal of fx-protected scheme accounts effective on Aug 23, it said in a statement, adding that accounts opened 
+before this date will remain valid until their maturity. Under the scheme, individuals and businesses were able to deposit 
+lira in special accounts that were protected against exchange rate losses. * ChinacategoryTroop costs, China in focus when 
+South Korea's Lee meets Trump", 'raw_content': None}, 
+{'url': 'https://aviationweek.com/air-transport/airlines-lessors/turkish-airlines-says-air-europa-has-accepted-350m-bid', 'title': 'Turkish Airlines Says Air Europa Has Accepted $350M Bid - Aviation Week Network', 'score': 0.028568588, 'published_date': 'Wed, 20 Aug 2025 09:37:16 GMT', 'content': '# Turkish Airlines Says Air Europa Has Accepted $350M Bid In an Aug. 19 statement, Turkish pointed to its Aug. 7 announcement in which it said, “Our board of directors had resolved to submit a binding offer for the acquisition of a minority stake in Air Europa with the objectives of strengthening our strategic position in the global aviation industry and increasing the number of tourists visiting Turkey along with the related economic contribution by opening new tourism markets in Latin America and expanding passenger and cargo flight network between Spain and Turkey.” Turkish Airlines Confirms Binding Bid For Air Europa Minority Stake Turkish Airlines Plans Imminent Binding Bid For Air Europa', 'raw_content': None}, {'url': 'https://www.reuters.com/world/middle-east/turkish-first-lady-urges-melania-trump-speak-out-gaza-2025-08-23/', 'title': 'Turkish first lady urges Melania Trump to speak out on Gaza - Reuters', 'score': 0.025959885, 'published_date': 'Sat, 23 Aug 2025 14:00:09 GMT', 'content': "# Turkish first lady urges Melania Trump to speak out on Gaza ISTANBUL, Aug 23 (Reuters) - Turkish First Lady Emine Erdogan has written to U.S. President Donald Trump's wife, Melania Trump, and urged her to contact Israel's prime minister and raise the plight of children in Gaza, authorities in Ankara said on Saturday. A global hunger monitor determined on Friday that Gaza City and surrounding areas are officially suffering from famine, and it will likely spread, escalating pressure on Israel to allow more aid into the Palestinian territory. * Middle EastcategoryGaza City officially in famine, with hunger spreading, says global hunger monitor * Middle EastcategoryTurkish first lady urges Melania Trump to speak out on Gaza", 'raw_content': None}, {'url': 'https://www.ainvest.com/news/bitcoin-news-today-market-forces-manipulation-bitcoin-plunge-ignites-debate-2508/', 'title': "Bitcoin News Today: Market Forces or Manipulation? Bitcoin's Plunge Ignites Debate - AInvest", 'score': 0.025258118, 'published_date': 'Thu, 21 Aug 2025 04:52:44 GMT', 'content': "- Bitcoin fell below $113,000 amid macroeconomic pressures, regulatory shifts, and suspected market manipulation by coordinated sellers. - Altcoin markets show fragility, with traders fearing cascading losses if Bitcoin faces further downward pressure. Bitcoin has experienced significant price swings as it navigates a volatile market environment shaped by macroeconomic factors, regulatory developments, and speculative sentiment. These observations suggest that while Bitcoin’s price action appears to be driven by broader macroeconomic pressures, the possibility of orchestrated market activity cannot be ruled out. Is Bitcoin's recent price drop a sign of market manipulation or macroeconomic pressures? TheKingfisher, a well-known market commentator, warned that Bitcoin could continue to bleed in value, which could trigger cascading losses in the altcoin space [1].", 'raw_content': None}, {'url': 'https://www.greenwichtime.com/sports/article/turkish-authorities-search-for-a-russian-swimmer-21014121.php', 'title': 'Turkish authorities search for a Russian swimmer who went missing in cross-Bosphorus race - Greenwich Time', 'score': 0.024914194, 'published_date': 'Mon, 25 Aug 2025 12:57:28 GMT', 'content': '%26utm_source%3Dfacebook.com%26utm_medium%3Dreferral&name=Turkish%20authorities%20search%20for%20a%20Russian%20swimmer%20who%20went%20missing%20in%20cross-Bosphorus%20race&description=Turkish%20state-run%20media%20says%20coast%20guard%20and%20maritime%20police%20vessels%20in%20Istanbul%20are%20searching%20for%20a%20Russian%20swimmer%20who%20went%20missing%20during%20a%20cross-Bosphorus%20race.%20The%20swimmer%20failed%20to%20complete%20the...&picture=https%3A%2F%2Fs.hdnux.com%2Fphotos%2F01%2F54%2F27%2F55%2F28408643%2F3%2FrawImage.jpg&redirect_uri=https%3A%2F%2Fwww.greenwichtime.com%2Fsports%2Farticle%2Fturkish-authorities-search-for-a-russian-swimmer-21014121.php%3Futm_campaign%3DCMS%2520Sharing%2520Tools%2520(Premium)%26utm_source%3DUTMSOURCE%26utm_medium%3DUTMMEDIUM)%26utm_source%3Dt.co%26utm_medium%3Dreferral&text=Turkish%20authorities%20search%20for%20a%20Russian%20swimmer%20who%20went%20missing%20in%20cross-Bosphorus%20race&via=GreenwichTime)%26utm_source%3Dbsky.app%26utm_medium%3Dreferral)%26utm_source%3Dshare-by-email%26utm_medium%3Demail%0A%0ATurkish%20state-run%20media%20says%20coast%20guard%20and%20maritime%20police%20vessels%20in%20Istanbul%20are%20searching%20for%20a%20Russian%20swimmer%20who%20went%20missing%20during%20a%20cross-Bosphorus%20race.%20The%20swimmer%20failed%20to%20complete%20the...%0A%0AThis%20message%20was%20sent%20via%20Greenwich%20Time) Image 1: Competitors aboard a ferry heading to the start line of a 6.5-kilometer swimming race across the Bosphorus Strait, from the Asian side to the European side, in Istanbul, Turkey, Sunday, Aug. 24, 2025. Competitors aboard a ferry heading to the start line of a 6.5-kilometer swimming race across the Bosphorus Strait, from the Asian side to the European side, in Istanbul, Turkey, Sunday, Aug. 24, 2025. Image 2: Competitors take part in a 6.5 km swimming race across the Bosphorus Strait, from the Asian side to the European side, in Istanbul, Turkey, Sunday, Aug. 24, 2025. ISTANBUL (AP) — Turkish coast guard and maritime police vessels in Istanbul were searching Monday for a Russian swimmer who went missing during a cross-Bosphorus race a day earlier, state-run media reported.', 'raw_content': None}], 'response_time': 2.51, 'request_id': '382686cc-774d-498d-be36-7c24953768b3'}
+Cem Küçük, a prominent Turkish journalist, made a statement: "The markets are bleeding," reflecting the severe economic turmoil in Turkey. This statement is significant because Küçük is known for his insightful analysis of Turkey's economic landscape. The Turkish economy has been struggling due to unorthodox economic policies, including the recent exit from a foreign exchange-protected deposit scheme, which has led to a significant cost of $60 billion and further depreciation of the lira. The Borsa Istanbul, Turkey's stock exchange, has seen substantial declines, corroborating Küçük's dire assessment. Reactions to his statement have been widespread, with many investors and analysts expressing concern over the future of Turkey's economic stability.
